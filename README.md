@@ -14,7 +14,7 @@ By completing this content, you will be able to:
 ## Table of Contents
 - Modules and Packages
 - Abstraction and Interface
-- File Handling
 - Exception Handling
+- File Handling
 - Metaclass
 - Interpreter
