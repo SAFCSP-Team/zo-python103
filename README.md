@@ -17,4 +17,4 @@ By completing this content, you will be able to:
 - Exception Handling
 - File Handling
 - Metaclass
-- Interpreter
+- Interpreter Modes and Execution Options
